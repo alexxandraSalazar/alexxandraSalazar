@@ -66,21 +66,21 @@
 <h3 align="center">Mis Estadísticas de GitHub</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex000127&show_icons=true&theme=dark&locale=en&layout=compact" alt="Los lenguajes principales de Alex000127" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexxandraSalazar&show_icons=true&theme=dark&locale=en&layout=compact" alt="Los lenguajes principales de alexxandraSalazar" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex000127&show_icons=true&theme=dark&locale=en" alt="Las estadísticas de GitHub de Alex000127" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexxandraSalazar&show_icons=true&theme=dark&locale=en" alt="Las estadísticas de GitHub de alexxandraSalazar" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex000127&theme=dark" alt="La racha de GitHub de Alex000127" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexxandraSalazar&theme=dark" alt="La racha de GitHub de alexxandraSalazar" />
 </p>
 
 
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Alex000127">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/alexxandraSalazar">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/axdxrxsx?igsh=MmUxNjh4bHFtbmpu&utm_source=qr">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
