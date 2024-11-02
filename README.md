@@ -11,7 +11,7 @@
 
 
 - 🌱 Currently diving into the world of web development.
-- ❤️ Passionate about web technologies; aspiring Frontend web developer and UI/UX designer🤞🏻💚🤓.
+- ❤️ Passionate about web technologies; aspiring Frontend web developer and UI/UX designer🤞🏻💚😝.
 
 ## 💚My Favsss:
 
