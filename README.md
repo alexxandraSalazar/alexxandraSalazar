@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=HELLO..&hearts;;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ffc300&size=25&center=true&vCenter=true&width=600&height=100&lines=HELLO..&hearts;;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3" alt="Typing SVG" />
 </a>
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 	
@@ -11,7 +11,7 @@
 
 
 - 🌱 Currently diving into the world of web development.
-- ❤️ Passionate about web technologies; aspiring Frontend web developer and UI/UX designer🤞🏻💚😝.
+- ❤️ Passionate about web technologies; aspiring Frontend web developer and UI/UX designer🤞🏻💛☀️.
 
 ## 💚My Favsss:
 
@@ -59,6 +59,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 - **☁️ Hosting/SaaS**:
+  
   ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
   ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
