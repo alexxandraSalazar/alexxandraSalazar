@@ -103,10 +103,17 @@
 
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/alexxandraSalazar">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/axdxrxsx?igsh=MmUxNjh4bHFtbmpu&utm_source=qr">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+<p>
+  <a href="mailto:alexandrasalazar121205@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/alexandra-rodr%C3%ADguez-salazar-833689258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/alexandrasalazzar/profilecard/?igsh=MmUxNjh4bHFtbmpu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 </div>
 
