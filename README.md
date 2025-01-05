@@ -107,6 +107,7 @@
 </p>
 
 
+## ☀️Find me in ...
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 <p>
   <a href="mailto:alexandrasalazar121205@gmail.com" target="_blank">
@@ -122,7 +123,7 @@
 </p>
 
 
-## ☀️Find me in ...
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexxandraSalazar/alexxandraSalazar/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexxandraSalazar/alexxandraSalazar/output/github-snake.svg" />
