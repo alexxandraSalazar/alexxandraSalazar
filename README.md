@@ -115,7 +115,6 @@
   </a>
 </p>
 
-</div>
 
 </p>
 
@@ -125,6 +124,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/alexxandraSalazar/alexxandraSalazar/output/github-snake.svg" />
 </picture>
 
+</div>
 
 
 
