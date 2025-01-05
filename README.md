@@ -89,15 +89,15 @@
 
 ## 💛 My GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexxandraSalazar&show_icons=true&theme=dark&locale=en&layout=compact" alt="Los lenguajes principales de alexxandraSalazar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexxandraSalazar&show_icons=true&theme=light&locale=en&layout=compact" alt="Los lenguajes principales de alexxandraSalazar" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexxandraSalazar&show_icons=true&theme=dark&locale=en" alt="Las estadísticas de GitHub de alexxandraSalazar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexxandraSalazar&show_icons=true&theme=light&locale=en" alt="Las estadísticas de GitHub de alexxandraSalazar" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexxandraSalazar&theme=dark" alt="La racha de GitHub de alexxandraSalazar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexxandraSalazar&theme=light" alt="La racha de GitHub de alexxandraSalazar" />
 </p>
 
 
@@ -114,8 +114,6 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-
-
 </p>
 
 <picture>
