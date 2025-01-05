@@ -89,17 +89,22 @@
 
 ## 💛 My GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexxandraSalazar&show_icons=true&theme=light&locale=en&layout=compact" alt="Los lenguajes principales de alexxandraSalazar" />
+  <!-- Tema oscuro -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=alexxandraSalazar&show_icons=true&theme=dark&locale=en&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=alexxandraSalazar&show_icons=true&theme=light&locale=en&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexxandraSalazar&show_icons=true&theme=light&locale=en&layout=compact" alt="Los lenguajes principales de alexxandraSalazar">
+  </picture>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexxandraSalazar&show_icons=true&theme=light&locale=en" alt="Las estadísticas de GitHub de alexxandraSalazar" />
+  <!-- Tema oscuro -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alexxandraSalazar&show_icons=true&theme=dark&locale=en">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alexxandraSalazar&show_icons=true&theme=light&locale=en">
+    <img src="https://github-readme-stats.vercel.app/api?username=alexxandraSalazar&show_icons=true&theme=light&locale=en" alt="Las estadísticas de GitHub de alexxandraSalazar">
+  </picture>
 </p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexxandraSalazar&theme=light" alt="La racha de GitHub de alexxandraSalazar" />
-</p>
-
 
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
