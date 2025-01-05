@@ -106,6 +106,14 @@
   </picture>
 </p>
 
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alexxandraSalazar&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alexxandraSalazar&theme=light">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexxandraSalazar&theme=light" alt="La racha de GitHub de alexxandraSalazar">
+  </picture>
+</p>
+
 
 ## ☀️Find me in ...
  <div align="center"  class="icons-social" style="margin-left: 10px;">
