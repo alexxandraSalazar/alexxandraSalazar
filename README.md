@@ -86,42 +86,42 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-<h3 align="center">Mis Estadísticas de GitHub</h3>
+## 💛 My GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexxandraSalazar&show_icons=true&theme=dark&locale=en&layout=compact" alt="Los lenguajes principales de alexxandraSalazar" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=alexxandraSalazar&show_icons=true&theme=dark&layout=compact" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=alexxandraSalazar&show_icons=true&theme=light&layout=compact" />
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexxandraSalazar&show_icons=true&theme=light&layout=compact" />
+    </picture>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alexxandraSalazar&show_icons=true&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alexxandraSalazar&show_icons=true&theme=light" />
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexxandraSalazar&show_icons=true&theme=light" />
+    </picture>
+  </div>
+  <div style="width: 100%; text-align: center; margin-top: 20px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alexxandraSalazar&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alexxandraSalazar&theme=light" />
+      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alexxandraSalazar&theme=light" />
+    </picture>
+  </div>
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexxandraSalazar&show_icons=true&theme=dark&locale=en" alt="Las estadísticas de GitHub de alexxandraSalazar" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexxandraSalazar&theme=dark" alt="La racha de GitHub de alexxandraSalazar" />
-</p>
-
-
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-<p>
-  <a href="mailto:alexandrasalazar121205@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/alexandra-rodr%C3%ADguez-salazar-833689258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/alexandrasalazzar/profilecard/?igsh=MmUxNjh4bHFtbmpu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
-
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexxandraSalazar/alexxandraSalazar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexxandraSalazar/alexxandraSalazar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/alexxandraSalazar/alexxandraSalazar/output/github-snake.svg" />
-</picture>
-
+<div align="center" class="icons-social" style="margin-top: 20px;">
+  <p>
+    <a href="mailto:alexandrasalazar121205@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/alexandra-rodr%C3%ADguez-salazar-833689258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://www.instagram.com/alexandrasalazzar/profilecard/?igsh=MmUxNjh4bHFtbmpu" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+  </p>
 </div>
